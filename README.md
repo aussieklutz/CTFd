@@ -1,5 +1,7 @@
 # ![](https://github.com/CTFd/CTFd/blob/master/CTFd/themes/core/static/img/logo.png?raw=true)
 
+## Patched to allow easier deployment to Raspberry Pi Zero W
+
 ![CTFd MySQL CI](https://github.com/CTFd/CTFd/workflows/CTFd%20MySQL%20CI/badge.svg?branch=master)
 ![Linting](https://github.com/CTFd/CTFd/workflows/Linting/badge.svg?branch=master)
 [![MajorLeagueCyber Discourse](https://img.shields.io/discourse/status?server=https%3A%2F%2Fcommunity.majorleaguecyber.org%2F)](https://community.majorleaguecyber.org/)
